@@ -1,0 +1,19 @@
+div{
+text-align: center;
+}
+
+button{
+ margin: 15px 0px;
+ padding:2px ;
+width: 80px;
+}
+
+textarea {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    font-size: 2em;
+    padding:8px 0px;
+
+}
